@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hola, soy Alejandro
 
-<!--
-**AleiStudio/AleiStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇲🇽 Mexicano | Desarrollador apasionado por la creación de soluciones innovadoras.
 
-Here are some ideas to get you started:
+#### Acerca de mí
+- 👨‍💻 Desarrollador Full Stack enfocado en tecnologías como JavaScript, Python, C++, HTML y CSS.
+- 🕹️ Aficionado a los juegos, siempre explorando nuevas experiencias y tecnologías en el mundo del gaming.
+- 📚 Siempre en busca de aprender más y mejorar mis habilidades técnicas.
+  
+#### Habilidades Técnicas
+- 💻 JavaScript: 100%
+- 🐍 Python: 100%
+- 🌐 HTML/CSS: 100%
+- 🚀 C++: 100%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Proyectos Destacados
+- 🎮 [Tienda](https://aleistudio.xyz/)
+- 🌐 [DiscordBot](https://discord.com/api/oauth2/authorize?client_id=1083889866955309106&permissions=8&scope=bot%20applications.commands)
+
+#### Contacto
+- 📧 Correo Electrónico: dksiao352@gmail.com
+- 🐦 Twitter: [@AleiSistemas](https://twitter.com/AleiSistemas)
