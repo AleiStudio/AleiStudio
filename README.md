@@ -15,7 +15,9 @@
 
 #### Proyectos Destacados
 - 🎮 [Tienda](https://aleistudio.xyz/)
-- 🌐 [DiscordBot](https://discord.com/api/oauth2/authorize?client_id=1083889866955309106&permissions=8&scope=bot%20applications.commands)
+- 🤖 [DiscordBot](https://discord.com/api/oauth2/authorize?client_id=1083889866955309106&permissions=8&scope=bot%20applications.commands)
+- 🟢 [NPM](https://www.npmjs.com/package/wantnsfw)
+- 🌐 [Pagina](https://wantbot.xyz/)
 
 #### Contacto
 - 📧 Correo Electrónico: dksiao352@gmail.com
