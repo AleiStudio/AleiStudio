@@ -22,3 +22,17 @@
 #### Contacto
 - 📧 Correo Electrónico: dksiao352@gmail.com
 - 🐦 Twitter: [@AleiSistemas](https://twitter.com/AleiSistemas)
+
+### 📊 GitHub Statistics
+<table>
+  <tr>
+	<td align="center" style="padding=0;width=50%;">
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=AleiStudio&show_icons=true&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&bg_color=0f172a" height="180" />
+	</td>
+	<td align="center" style="padding=0;width=50%;">
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleiStudio&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&layout=compact&bg_color=0f172a" height="180" />
+	</td>
+  </tr>
+</table>
+
+<br />
