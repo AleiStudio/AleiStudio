@@ -1,9 +1,7 @@
 ### Hola, soy Alejandro
 
 🇲🇽 Mexicano | Desarrollador apasionado por la creación de soluciones innovadoras.
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AleiStudio&label=Profile%20views&color=0e75b6&style=flat" alt="AleiStudio" />
-</p>
+
 #### Acerca de mí
 - 👨‍💻 Desarrollador Full Stack enfocado en tecnologías como JavaScript, Python, C++, HTML y CSS.
 - 🕹️ Aficionado a los juegos, siempre explorando nuevas experiencias y tecnologías en el mundo del gaming.
@@ -38,3 +36,6 @@
 </table>
 
 <br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AleiStudio&label=Profile%20views&color=0e75b6&style=flat" alt="AleiStudio" />
+</p>
