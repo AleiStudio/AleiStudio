@@ -2,9 +2,8 @@
 
 🇲🇽 Mexicano | Desarrollador apasionado por la creación de soluciones innovadoras.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleiStudio&show_icons=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=0d1117&hide_border=true" alt="AleiStudio" />
+  <img src="https://komarev.com/ghpvc/?username=AleiStudio&label=Profile%20views&color=0e75b6&style=flat" alt="AleiStudio" />
 </p>
-
 #### Acerca de mí
 - 👨‍💻 Desarrollador Full Stack enfocado en tecnologías como JavaScript, Python, C++, HTML y CSS.
 - 🕹️ Aficionado a los juegos, siempre explorando nuevas experiencias y tecnologías en el mundo del gaming.
