@@ -17,6 +17,7 @@
 - 🎮 [Tienda](https://aleistudio.xyz/)
 - 🤖 [DiscordBot](https://discord.com/api/oauth2/authorize?client_id=1083889866955309106&permissions=8&scope=bot%20applications.commands)
 - 🟢 [NPM](https://www.npmjs.com/package/wantnsfw)
+- 🔴 [API](https://apiwant.xyz/)
 - 🌐 [Pagina](https://wantbot.xyz/)
 
 #### Contacto
