@@ -8,7 +8,7 @@
 - 📚 Siempre en busca de aprender más y mejorar mis habilidades técnicas.
   
 #### Habilidades Técnicas
-- 💻 JavaScript: 100%
+- <a href="https://discord.com/invite/Pa7kABqaZx"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="wantapi" /></a> 100%
 - 🐍 Python: 100%
 - 🌐 HTML/CSS: 100%
 - 🚀 C++: 100%
