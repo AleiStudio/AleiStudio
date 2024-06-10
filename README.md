@@ -41,4 +41,6 @@
   <img src="https://komarev.com/ghpvc/?username=AleiStudio&label=Profile%20views&color=0e75b6&style=flat" alt="AleiStudio" />
 </p>
 
+<div align="center">
 <a href="https://discord.com/invite/Pa7kABqaZx"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="wantapi" /></a>
+</div>
