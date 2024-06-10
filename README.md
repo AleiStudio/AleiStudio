@@ -8,10 +8,11 @@
 - 📚 Siempre en busca de aprender más y mejorar mis habilidades técnicas.
   
 #### Habilidades Técnicas
-- <a href="https://discord.com/invite/Pa7kABqaZx"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="wantapi" /></a> 100%
-- 🐍 Python: 100%
-- 🌐 HTML/CSS: 100%
-- 🚀 C++: 100%
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js" /></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="py" /></a>
+<a><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html" /></a>
+<a><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css" /></a>
+<a><img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" alt="c++" /></a>
 
 #### Proyectos Destacados
 - 🎮 [Tienda](https://aleistudio.xyz/)
