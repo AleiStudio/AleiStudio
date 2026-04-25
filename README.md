@@ -16,7 +16,7 @@
 
 #### Proyectos Destacados
 - 🤖 [DiscordBot](https://discord.com/api/oauth2/authorize?client_id=1083889866955309106&permissions=8&scope=bot%20applications.commands)
-- 🟢 [NPM]([https://www.npmjs.com/package/wantnsfwapi](https://www.npmjs.com/package/wantapi))
+- 🟢 [NPM](https://www.npmjs.com/package/wantapi)
 - 🔴 [API](https://doc.want.cat/)
 - 🌐 [Pagina](https://aleimitch.xyz/)
 
